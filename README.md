@@ -1,0 +1,2 @@
+# Basiccoding
+ODD OR EVEN CODE USING PYTHON
